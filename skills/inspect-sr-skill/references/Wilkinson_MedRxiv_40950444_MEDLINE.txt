@@ -1,0 +1,312 @@
+PMID- 40950444
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20251103
+LR  - 20251103
+DP  - 2025 Oct 21
+TI  - INSPECT-SR: a tool for assessing trustworthiness of randomised controlled trials.
+LID - 2025.09.03.25334905 [pii]
+LID - 10.1101/2025.09.03.25334905 [doi]
+AB  - The integrity of evidence synthesis is threatened by problematic randomised 
+      controlled trials (RCTs). These are RCTs where there are serious concerns about 
+      the trustworthiness of the data or findings. This could be due to research 
+      misconduct, including fraud, or due to honest critical errors. If these RCTs are 
+      not detected, they may be inadvertently included in systematic reviews and 
+      guidelines, potentially distorting their results. To address this problem, the 
+      INSPECT-SR (INveStigating ProblEmatic Clinical Trials in Systematic Reviews) tool 
+      has been developed to assess the trustworthiness of RCTs. This will allow 
+      problematic RCTs to be identified and excluded from systematic reviews. This 
+      paper describes the development of INSPECT-SR. The tool and an associated 
+      guidance document are presented.
+FAU - Wilkinson, Jack
+AU  - Wilkinson J
+AUID- ORCID: 0000-0003-3513-4677
+AD  - Centre for Biostatistics, Manchester Academic Health Science Centre, Faculty of 
+      Biology, Medicine, and Health, University of Manchester, Manchester, UK.
+FAU - Heal, Calvin
+AU  - Heal C
+AD  - Centre for Biostatistics, Manchester Academic Health Science Centre, Faculty of 
+      Biology, Medicine, and Health, University of Manchester, Manchester, UK.
+FAU - Flemyng, Ella
+AU  - Flemyng E
+AD  - Cochrane Central Executive, London, UK.
+FAU - Antoniou, Georgios A
+AU  - Antoniou GA
+AD  - Manchester Vascular Centre, Manchester University NHS Foundation Trust, 
+      Manchester, UK.
+AD  - Division of Cardiovascular Sciences, School of Medical Sciences, Manchester 
+      Academic Health Science Centre, The University of Manchester, Manchester, UK.
+FAU - Aburrow, Tony
+AU  - Aburrow T
+AD  - Cochrane Central Executive, London, UK.
+FAU - Alfirevic, Zarko
+AU  - Alfirevic Z
+AD  - University of Liverpool, UK.
+FAU - Avenell, Alison
+AU  - Avenell A
+AD  - Aberdeen Centre for Evaluation, University of Aberdeen, UK.
+FAU - Barbour, Virginia
+AU  - Barbour V
+AD  - Medical Journal of Australia and Faculty of Health, Queensland University of 
+      Technology, Brisbane, Australia.
+FAU - Berghella, Vincenzo
+AU  - Berghella V
+AD  - Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, 
+      Thomas Jefferson University, Philadelphia, USA.
+FAU - Bishop, Dorothy V M
+AU  - Bishop DVM
+AD  - Department of Experimental Psychology, University of Oxford, UK.
+FAU - Bordewijk, Esmée M
+AU  - Bordewijk EM
+AD  - Department of Obstetrics and Gynaecology, Centre for Reproductive Medicine, 
+      Amsterdam UMC, University of Amsterdam, Amsterdam, The Netherlands.
+FAU - Brown, Nicholas J L
+AU  - Brown NJL
+AD  - Department of Psychology, Linnaeus University, Sweden.
+FAU - Christopher, Jana
+AU  - Christopher J
+AD  - FEBS Press, Heidelberg, Germany.
+FAU - Clarke, Mike
+AU  - Clarke M
+AD  - Centre for Public Health, Queen's University Belfast, Belfast, UK.
+FAU - Dahly, Darren
+AU  - Dahly D
+AUID- ORCID: 0000-0003-0110-324X
+AD  - HRB Clinical Research Facility, School of Public Health, University College Cork, 
+      Cork, Ireland.
+FAU - Dennis, Jane
+AU  - Dennis J
+AD  - University of Bristol, UK.
+FAU - Dicker, Patrick
+AU  - Dicker P
+AD  - Department of Epidemiology and Public Health, Royal College of Surgeons in 
+      Ireland, Ireland.
+FAU - Dumville, Jo
+AU  - Dumville J
+AD  - School of Health Sciences, University of Manchester, Manchester, UK.
+FAU - Frankish, Helen
+AU  - Frankish H
+AD  - The Lancet, London, UK.
+FAU - Grey, Andrew
+AU  - Grey A
+AD  - University of Auckland, Auckland, New Zealand.
+FAU - Grohmann, Steph
+AU  - Grohmann S
+AD  - Research Integrity Editor, Cochrane, London, UK.
+FAU - Gurrin, Lyle C
+AU  - Gurrin LC
+AD  - School of Population and Global Health, The University of Melbourne.
+FAU - Hayden, Jill A
+AU  - Hayden JA
+AD  - Department of Community Health & Epidemiology, Dalhousie University, Halifax, 
+      Nova Scotia, Canada.
+AD  - Novia Scotia Health, Halifax, Nova Scotia, Canada.
+FAU - Heathers, James A J
+AU  - Heathers JAJ
+AD  - Medical Evidence Project, Center for Scientific Integrity, NY, USA.
+FAU - Hunter, Kylie E
+AU  - Hunter KE
+AUID- ORCID: 0000-0002-2796-9220
+AD  - NHMRC Clinical Trials Centre, University of Sydney, Australia.
+FAU - Hussey, Ian
+AU  - Hussey I
+AUID- ORCID: 0000-0001-8906-7559
+AD  - Institute of Psychology, University of Bern, Switzerland.
+FAU - Jung, Lukas
+AU  - Jung L
+AUID- ORCID: 0009-0007-9174-1494
+AD  - Independent researcher, Heidelberg, Germany.
+FAU - Lam, Emily
+AU  - Lam E
+AD  - Independent Lay Member, Unaffiliated, Cheshire, UK.
+FAU - Lasserson, Toby J
+AU  - Lasserson TJ
+AD  - Cochrane Central Executive, London, UK.
+FAU - Lensen, Sarah
+AU  - Lensen S
+AD  - Department of Obstetrics, Gynaecology and Newborn Health, Royal Women's Hospital, 
+      University of Melbourne, Australia.
+FAU - Li, Tianjing
+AU  - Li T
+AD  - Department of Ophthalmology, University of Colorado Anschutz Medical Campus, USA.
+FAU - Li, Wentao
+AU  - Li W
+AD  - National Perinatal Epidemiology and Statistics Unit, Centre for Big Data Research 
+      in Health and School of Clinical Medicine, The University of New South Wales, 
+      Sydney, Australia.
+FAU - Liu, Jianping
+AU  - Liu J
+AUID- ORCID: 0000-0002-0320-061X
+AD  - Centre for Evidence-Based Chinese Medicine, Beijing University of Chinese 
+      Medicine, Beijing, China.
+FAU - Loder, Elizabeth
+AU  - Loder E
+AD  - The BMJ, UK.
+AD  - Harvard Medical School, Boston, MA, USA.
+FAU - Lundh, Andreas
+AU  - Lundh A
+AD  - Cochrane Denmark & Centre for Evidence-Based Medicine Odense (CEBMO), Department 
+      of Clinical Research, University of Southern Denmark, Odense, Denmark.
+AD  - Open Patient data Explorative Network (OPEN), Odense University Hospital, Odense, 
+      Denmark .
+AD  - Department of Respiratory Medicine and Infectious Diseases, Copenhagen University 
+      Hospital-Bispebjerg and Frederiksberg, Copenhagen, Denmark.
+FAU - Meyerowitz-Katz, Gideon
+AU  - Meyerowitz-Katz G
+AD  - University of Woolongong, NSW, Australia.
+FAU - Mol, Ben W
+AU  - Mol BW
+AD  - Department of Obstetrics Gynaecology, Monash University, Melbourne, Australia.
+FAU - Naudet, Florian
+AU  - Naudet F
+AUID- ORCID: 0000-0003-3760-3801
+AD  - Univ Rennes, CHU Rennes, Inserm, EHESP, Irset (Institut de recherche en santé, 
+      environnement et travail) - UMR_S, Rennes, France.
+AD  - Institut Universitaire de France (IUF), Paris, France.
+FAU - Noel-Storr, Anna
+AU  - Noel-Storr A
+AD  - Cochrane Central Executive, London, UK.
+FAU - O'Connell, Neil E
+AU  - O'Connell NE
+AUID- ORCID: 0000-0003-1989-4537
+AD  - Department of Health Sciences, Centre for Health and Wellbeing Across the 
+      Lifecourse, Brunel University of London, United Kingdom.
+FAU - Parker, Lisa
+AU  - Parker L
+AD  - Charles Perkins Centre, Faculty of Medicine and Health, University of Sydney, 
+      Australia.
+FAU - Redberg, Rita F
+AU  - Redberg RF
+AD  - Department of Medicine, UCSF Philip Lee Institute for Health Policy Studies, USA.
+FAU - Redman, Barbara K
+AU  - Redman BK
+AD  - New York University Grossman School of Medicine, New York, USA.
+FAU - Richardson, Rachel
+AU  - Richardson R
+AD  - Cochrane Central Executive, London, UK.
+FAU - Seidler, Anna Lene
+AU  - Seidler AL
+AD  - Department of Child and Adolescent Psychiatry, University Medical Centre Rostock, 
+      Rostock, Germany; German Center for Child and Adolescent Health (DZKJ), partner 
+      site Greifswald/Rostock, Rostock, Germany.
+FAU - Sheldrick, Kyle
+AU  - Sheldrick K
+AD  - Spine Labs, Faculty of Clinical Medicine, University of New South Wales.
+FAU - Sydenham, Emma
+AU  - Sydenham E
+AD  - Cochrane Central Editorial Service, London, UK.
+FAU - van Wely, Madelon
+AU  - van Wely M
+AD  - Centre for Reproductive Medicine, Amsterdam Reproduction & Development Research 
+      Institute, Amsterdam UMC, Amsterdam, The Netherlands.
+FAU - Vorland, Colby J
+AU  - Vorland CJ
+AD  - Department of Epidemiology and Biostatistics, Indiana University School of Public 
+      Health-Bloomington, USA.
+FAU - Wang, Rui
+AU  - Wang R
+AD  - NHMRC Clinical Trials Centre, University of Sydney, Australia.
+FAU - Weibel, Stephanie
+AU  - Weibel S
+AD  - University Hospital Würzburg, Department of Anaesthesiology, Intensive Care, 
+      Emergency and Pain Medicine, Würzburg, Germany.
+FAU - Wjst, Matthias
+AU  - Wjst M
+AD  - Institut für KI und Informatik in der Medizin, Lehrstuhl für Medizinische 
+      Informatik, Klinikum rechts der Isar, Grillparzerstr. 18, D-81675 München, 
+      Germany.
+FAU - Bero, Lisa
+AU  - Bero L
+AD  - Center for Bioethics, and Humanities, University of Colorado Anschutz Medical 
+      Campus, Aurora, CO, USA.
+FAU - Kirkham, Jamie J
+AU  - Kirkham JJ
+AUID- ORCID: 0000-0003-2579-9325
+AD  - Centre for Biostatistics, Manchester Academic Health Science Centre, Faculty of 
+      Biology, Medicine, and Health, University of Manchester, Manchester, UK.
+LA  - eng
+GR  - UG1 EY020522/EY/NEI NIH HHS/United States
+PT  - Journal Article
+PT  - Preprint
+DEP - 20251021
+PL  - United States
+TA  - medRxiv
+JT  - medRxiv : the preprint server for health sciences
+JID - 101767986
+PMC - PMC12424918
+COIS- Declarations JW, CH, GAA, LB, JJK declare funding from NIHR (NIHR203568) in 
+      relation to the current project. JW additionally declares Stats or Methodological 
+      Editor roles for BJOG, Fertility and Sterility, Reproduction and Fertility, 
+      Journal of Hypertension, and for Cochrane Gynaecology and Fertility. AL is on the 
+      editorial board of BMC Medical Ethics. TLi declares funding from the National Eye 
+      Institute, National Institutes of Health (UG1 EY020522). TLi serves as a 
+      methodological editor for Annals of Internal Medicine, the review editor for JAMA 
+      Ophthalmology, a Co-Editor-in-Chief for Trials, and is on the editorial board for 
+      Journal of Clinical Epidemiology. WL declares funding from the Australian 
+      National Health and Medical Research Council, Medical Research Future Fund, and 
+      Ramaciotti Foundations. WL serves as an associate editor for Human Reproduction 
+      and methodological reviewer for Fertility & Sterility and F&S Reviews. SL 
+      declares funding from the University of Melbourne, Norman Beischer Medical 
+      Research Foundation, and National Health and Medical Research Council. SL is 
+      co-ordinating editor of Cochrane Gynaecology and Fertility and an editor for 
+      Human Reproduction Open, Fertility and Sterility, and Trials. FN received funding 
+      from the French National Research Agency, the French ministry of health and the 
+      French ministry of research. He is a work package leader in the OSIRIS project 
+      (Open Science to Increase Reproducibility in Science, funded by the European 
+      Union’s Horizon Europe research and innovation programme under grant agreement 
+      No. 101094725). FN is also work package leader for the doctoral network MSCA-DN 
+      SHARE-CTD (HORIZON-MSCA-2022-DN-01 101120360), funded by the European Union. TJL 
+      is an employee of The Cochrane Collaboration and interim Editor in Chief of the 
+      Cochrane Library. TA is an employee of The Cochrane Collaboration. EF is an 
+      employee of the Cochrane Collaboration and editorial board member of Cochrane 
+      Evidence Synthesis and Methods. RR is an employee of The Cochrane Collaboration 
+      and editor of Cochrane Evidence Synthesis and Methods. AA and CJV declares 
+      funding from the UKRI Metascience Unit (ESRC and Open Philanthropy) for the 
+      INSPECT-AI project. UKRI1083: Evaluating the Development and Impact of 
+      AI-Assisted Integrity Assessment of Randomised Trials in Evidence Syntheses. ES 
+      is a Senior Editor of the Cochrane Database of Systematic Reviews. LP is on the 
+      editorial board for Journal of Clinical Epidemiology. SG is an employee of the 
+      Cochrane Collaboration. SW is editor for Cochrane Anesthesia and involved in 
+      development of the Research Integrity Assessment (RIA) tool for RCTs included in 
+      evidence synthesis. ALS is on the Editorial Board for Cochrane Evidence Synthesis 
+      Methods, Statistical Editor for Cochrane Neonatal and Co-Convenor for the 
+      Cochrane Prospective Meta-Analysis Methods Group. KEH is Associate Convenor for 
+      the Cochrane Prospective Meta-Analysis Methods Group. BWM reports consultancy, 
+      travel support and research funding from Merck and consultancy for Ferring, 
+      Organon, UNILAB and Norgine. RW declares funding from the Australian National 
+      Health and Medical Research Council. RW is a Deputy Editor of Human Reproduction 
+      Update, an Editorial Board Member of BJOG and Cochrane Gynaecology and Fertility 
+      Group, and a former Deputy Editor of Human Reproduction. NOC Between 2020 and 
+      2023 NOC was Coordinating Editor of the Cochrane Pain, Palliative and Supportive 
+      Care group, whose activities were funded by The UK National Institute of Health 
+      and Care Research (NIHR). He is the Chair of the International Association for 
+      the Study of Pain (IASP) Methodology, Evidence Synthesis and Implementation 
+      Special Interest Group and has held a grant from the ERA-NET Neuron Co-Fund. LJ 
+      is the creator of the scrutiny package in R. VB is the Editor in Chief of the 
+      Medical Journal of Australia and on the Editorial Board of Research Integrity and 
+      Peer Review. MC declares Coordinating Editor or Editor in Chief roles for James 
+      Lind Library, Cochrane Methodology Review Group and Journal of Evidence-Based 
+      Medicine, and many years of funded research using randomised trials and 
+      systematic reviews. ZA declares membership of the Cochrane Library Editorial 
+      Board, and PI on a grant from Children Investment Foundation Fund to University 
+      of Liverpool to investigate research integrity of clinical trials related to 
+      nutritional supplements in pregnancy. JDe is a member of the Cochrane Emergency 
+      and Acute Care Thematic Group. MvW is sign-off Editor for Cochrane, Senior Editor 
+      of Cochrane Gynaecology and Fertility and Cochrane Sexually Transmitted 
+      Infections, and Editor in Chief of Human Reproduction Update. JAJH declares 
+      funding from Open Philanthropy and consultancy for the Gates Foundation and 
+      Helena Foundation. HF declares an editorial role at The Lancet. All other authors 
+      declare no conflict of interest.
+EDAT- 2025/09/15 12:33
+MHDA- 2025/09/15 12:34
+PMCR- 2025/10/27
+CRDT- 2025/09/15 07:54
+PHST- 2025/09/15 12:33 [pubmed]
+PHST- 2025/09/15 12:34 [medline]
+PHST- 2025/09/15 07:54 [entrez]
+PHST- 2025/10/27 00:00 [pmc-release]
+AID - 2025.09.03.25334905 [pii]
+AID - 10.1101/2025.09.03.25334905 [doi]
+PST - epublish
+SO  - medRxiv [Preprint]. 2025 Oct 21:2025.09.03.25334905. doi: 
+      10.1101/2025.09.03.25334905.
