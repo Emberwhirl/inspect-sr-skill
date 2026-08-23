@@ -5,7 +5,7 @@ license: MIT
 metadata:
   author: Emberwhirl
   email: emberwhirl@163.com
-  version: 0.1.0
+  version: 0.1.1
 ---
 
 # INSPECT-SR: trustworthiness assessment for RCTs
@@ -96,6 +96,10 @@ Domain and study judgements use `No concerns`, `Some concerns`, `Serious concern
 - Reserve `serious concerns` for cases that are clear **beyond reasonable doubt**. Having reached it, go back and re-read the responses that support it and ask whether an alternative explanation survives. Correspondence with the study authors is strongly recommended before a serious rating that rests on missing information — and if you cannot correspond, say that the rating is provisional pending it.
 - Report the reasons for every domain and study judgement. They belong in the characteristics of included or excluded studies table so that others can scrutinise them.
 
+### 🔴 HUMAN CHECKPOINT — STOP before final exclusion
+
+Before a `Serious concerns` judgement or exclusion recommendation is treated as final, show the review team: the decisive evidence, its source, surviving benign alternatives, unresolved information, and author-contact status. Require an independent second reviewer to confirm both the judgement and the report handling. You may provide the completed assessment and use an evidence-based early stop in the same response, but label the decision **provisional pending independent confirmation** until that check occurs. Never let an automated calculation or a single assessor silently make the final exclusion decision.
+
 ### How the judgement enters the review
 
 | Overall | Include? | Risk of Bias? | Synthesis |
@@ -127,6 +131,7 @@ Two recurring misreadings to head off: **failing to reach the target sample size
 | Multi-panel figure identical across different outcome scales | 3.2 | — |
 | Baseline data contradict eligibility (males in a postmenopausal trial) | 4.1 | Check whether the manuscript explains it |
 | Arm imbalance exceeds half the stated block size | 4.2 | Simple randomisation routinely yields unequal arms, and authors may have mis-described the method |
+| Between sequential reports, all added participants appear in one arm of a trial described as concurrently randomised | 4.2 | Compare arm-specific increments; rule out a changed allocation ratio, staggered/nonconcurrent arms, post-randomisation exclusions, or a different analysis population. If none is documented, answer `Yes` |
 | Many baseline means or SDs identical across arms to 2 dp | 4.3 | Do **not** reach for Benford or baseline-balance tests; the guidance advises against routine use by non-experts |
 | A figure disagrees with the table or the text | 4.4 | — |
 | Zero attrition in a long, burdensome trial | 4.5 | Incentives and short follow-up can explain low attrition |
@@ -152,6 +157,15 @@ Five deliverables are worth offering, since a review team needs different ones a
 - **Methods text for the review itself**, when asked, naming the INSPECT-SR guidance version applied and this skill's version. Reviews have to state what they used; [`references/Wilkinson_MedRxiv_40950444_MEDLINE.txt`](references/Wilkinson_MedRxiv_40950444_MEDLINE.txt) holds the MEDLINE record for the tool publication, so citation details can be checked rather than recalled.
 
 **Language.** Never allege fraud, fabrication or misconduct, and never imply it through insinuation. INSPECT-SR does not determine whether a problem arose from malpractice or error, and the reviewer's finding is about a *study*, not about people. Write "trustworthiness concern", "potentially problematic feature", "unresolved inconsistency", "serious doubts about the trustworthiness of the reported data". If a user pushes for a verdict on the authors' intent, explain that the tool cannot supply one and give them what it can.
+
+## Red lines — do not do these
+
+- Do not complete the table from a citation, abstract, or isolated numbers, and do not turn an unsearched source into `No`.
+- Do not count `Yes` responses, assign a numerical trustworthiness score, or let one `Yes` mechanically determine a domain or study judgement.
+- Do not infer fraud, fabrication, misconduct, or author intent from a trustworthiness concern.
+- Do not reconstruct continuous-test *p*-values from rounded summaries with an ordinary calculator; use a rounding-aware range.
+- Do not apply GRIM to non-integer measurements, GRIMMER to percentages, or routine digit/baseline-balance tests without the required expertise.
+- Do not treat automated output as a verdict or allow one assessor to finalise a `Serious concerns` exclusion.
 
 ## When you get stuck
 
@@ -182,4 +196,4 @@ Read the relevant file before working a domain in depth — each carries the off
 
 ---
 
-Skill version **0.1.0**, covering INSPECT-SR Guidance **v1.1.2**. Record both when an assessment is reported, so a reader can tell which guidance and which implementation produced it. Material under `references/` is derived from the guidance by Wilkinson, Heal, Flemyng, Bero, Kirkham and contributors (https://inspect-sr.com, CC-BY 4.0); this skill is MIT-licensed. For live notices, always search the current journal page, the Retraction Watch database and PubPeer rather than relying on any example here. INSPECT-IPD, the individual-participant-data extension, is in development and is not specified in v1.1.2.
+Skill version **0.1.1**, covering INSPECT-SR Guidance **v1.1.2**. Record both when an assessment is reported, so a reader can tell which guidance and which implementation produced it. Material under `references/` is derived from the guidance by Wilkinson, Heal, Flemyng, Bero, Kirkham and contributors (https://inspect-sr.com, CC-BY 4.0); this skill is MIT-licensed. For live notices, always search the current journal page, the Retraction Watch database and PubPeer rather than relying on any example here. INSPECT-IPD, the individual-participant-data extension, is in development and is not specified in v1.1.2.
